@@ -1,7 +1,5 @@
-photoshop-and-photography-notes
+#Photoshop and Photography Notes
 ===============================
-
-Photoshop and Photography Notes
 
 
 ##Grunge Style Effect
